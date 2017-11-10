@@ -1,0 +1,19 @@
+{
+  "name": "presto-embed-tool",
+  "version": "1.0.0",
+  "description": "A tool to make responsive iframe embeds in presto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/courierjournal/presto-embed-tool.git"
+  },
+  "author": "Jesse Hazel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/courierjournal/presto-embed-tool/issues"
+  },
+  "homepage": "https://github.com/courierjournal/presto-embed-tool#readme"
+}
